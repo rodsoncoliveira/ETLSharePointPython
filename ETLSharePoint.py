@@ -2,8 +2,8 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 # Defina suas credenciais
-username = "svc-sede-spfarm@infraero.gov.br"
-password = "W*9%$?WnFQ"
+username = "xxx"
+password = "xxx"
 admin_url = "https://infraerogovbr-admin.sharepoint.com/"
 
 # URL para recuperar todos os sites
